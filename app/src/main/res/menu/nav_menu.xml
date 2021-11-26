@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/nav_ficha"
+        android:icon="@drawable/medic_report"
+        android:title="Ficha médica"/>
+
+    <item
+        android:id="@+id/nav_signos"
+        android:icon="@drawable/medic_symptom"
+        android:title="Registrar signos"/>
+
+    <item
+        android:id="@+id/nav_registros"
+        android:icon="@drawable/medic_sign"
+        android:title="Registrar síntomas"/>
+
+    <item
+        android:id="@+id/nav_historial"
+        android:icon="@drawable/medic_calendar"
+        android:title="Historial médico"/>
+
+    <item
+        android:id="@+id/nav_comunicacion"
+        android:icon="@drawable/medic_communication"
+        android:title="Comunicación médico"/>
+
+
+    <item
+        android:id="@+id/nav_ajustes"
+        android:icon="@drawable/ajustes_icon"
+        android:title="Ajustes"/>
+
+
+
+    <item android:title="Perfil">
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout_icon"
+                android:title="Cerrar sesión"/>
+        </menu>
+
+
+    </item>
+
+
+
+</menu>

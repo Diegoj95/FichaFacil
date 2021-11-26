@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056684613137",
+    "project_id": "ficha-medica-ef678",
+    "storage_bucket": "ficha-medica-ef678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056684613137:android:c35705bbe08e7db0421bb0",
+        "android_client_info": {
+          "package_name": "com.example.fichamedica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056684613137-movjuulj40gduqrftmmep9c4jjjt6b97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fichamedica",
+            "certificate_hash": "d5d76b191103f36bf08d03fa6f0a457fb32edec4"
+          }
+        },
+        {
+          "client_id": "1056684613137-1jmhm4t3br6tlb2b620ilkhd32oo3h5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkqHvnKCf4zDBsRlSevuIfUlB5vdZ3jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056684613137-1jmhm4t3br6tlb2b620ilkhd32oo3h5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

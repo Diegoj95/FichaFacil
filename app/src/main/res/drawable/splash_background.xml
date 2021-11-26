@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/DarkBlue"/>
+
+    <item
+        android:left="10dp"
+        android:right="10dp"
+        android:top="100dp"
+        android:bottom="100dp">
+
+        <bitmap android:src="@drawable/splashphoto"></bitmap>
+
+    </item>
+
+
+
+</layer-list>

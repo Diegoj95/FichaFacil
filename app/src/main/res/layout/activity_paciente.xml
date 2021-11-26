@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PacienteActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/buttonSintomas"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="320dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/Blue"
+            android:drawableLeft="@drawable/medic_sign"
+            android:drawableTint="@color/white"
+            android:text="Registrar síntomas"
+            android:textColor="@color/white"
+            app:cornerRadius="40dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonSignos"
+            app:strokeColor="@color/DarkBlue" />
+
+        <Button
+            android:id="@+id/buttonSignos"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="320dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/Blue"
+            android:drawableLeft="@drawable/medic_symptom"
+            android:drawableTint="@color/white"
+            android:text="Registrar signos"
+            android:textColor="@color/white"
+            app:cornerRadius="40dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonFichaMedica"
+            app:strokeColor="@color/DarkBlue" />
+
+        <Button
+            android:id="@+id/buttonFichaMedica"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="320dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="92dp"
+            android:backgroundTint="@color/Blue"
+            android:drawableLeft="@drawable/medic_report"
+            android:drawableTint="@color/white"
+            android:text="Ver ficha médica"
+            android:textColor="@color/white"
+            app:cornerRadius="40dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:strokeColor="@color/DarkBlue" />
+
+        <Button
+            android:id="@+id/buttonHistorial"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="320dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="8dp"
+            android:backgroundTint="@color/Blue"
+            android:drawableLeft="@drawable/medic_calendar"
+            android:drawableTint="@color/white"
+            android:text="Historial de atenciones"
+            android:textColor="@color/white"
+            app:cornerRadius="40dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonSintomas"
+            app:strokeColor="@color/DarkBlue" />
+
+        <Button
+            android:id="@+id/buttonComunicacion"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="320dp"
+            android:layout_height="80dp"
+            android:layout_marginBottom="112dp"
+            android:backgroundTint="@color/Blue"
+            android:drawableLeft="@drawable/medic_communication"
+            android:drawableTint="@color/white"
+            android:text="Comunicación con el médico"
+            android:textColor="@color/white"
+            app:cornerRadius="40dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttonHistorial"
+            app:layout_constraintVertical_bias="0.094"
+            app:strokeColor="@color/DarkBlue" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/nav_menu"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true">
+    </com.google.android.material.navigation.NavigationView>
+
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
