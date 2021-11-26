@@ -1,6 +1,3 @@
-! [Banner] (https://i.imgur.com/KDT9aot.png)
-
-
 ## Contenidos
 
 - [Pudu] (# pudu)
