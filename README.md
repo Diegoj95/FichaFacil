@@ -1,18 +1,7 @@
-## Contenidos
-
-- [Pudu] (# pudu)
-  - [Contenido] (# contenido)
-  - [Descripción breve] (# descripción breve)
-    - [¿Cuál es el problema?] (# Cuál-es-el-problema)
-    - [¿Cómo puede ayudar la tecnología?] (# Cómo-puede-ayudar-la-tecnología)
-    - [La idea] (# la-idea)
-  - [Introducción] (# introducción)
-  - [Construido con] (# construido con)
-  - [Autores] (# autores)
-  - [Repositorios separados] (# repositorios separados)
-  - [Agradecimientos] (# reconocimientos)
-
 ## Breve descripción
+
+Esta aplicación la desarrollamos para la Hackathon de NTTDATA en Chile. Apuntamos a los 2 desafíos de mejorar registro/comunicación con el paciente y mejorar el tiempo
+que demora el profesional en atender al paciente, particularmente con el uso inteligente e interoperativo de las fichas médicas.
 
 ### ¿Cuál es el problema?
 
