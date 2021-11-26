@@ -5,20 +5,20 @@ que demora el profesional en atender al paciente, particularmente con el uso int
 
 ### ¿Cuál es el problema?
 
-1) Los pacientes legalmente son dueños de su ficha médica, pero en la práctica no, los pacientes no tienen con su ficha a mano
+1) Los pacientes legalmente son dueños de su ficha médica, pero en la práctica no, los pacientes no cuentan con su ficha a mano
 2) Baja continuidad en los tratamientos
-3) Atenciones ineficientes, los sistemas muchas veces no permiten ver las fichas médicas rapidamente
+3) Atenciones ineficientes, los sistemas muchas veces no permiten ver las fichas médicas rapidamente, pérdida de tiempo útil en la atención
 4) Mala comunicación médico/paciente, se pierden los síntomas entre atenciones. Muchas veces se comunican por medios informales como Whatsapp donde se pierde la información
 y se presta para problemas
+5) Los pacientes muchas veces no recuerdan bien los nombres de sus medicamente, enfermedades, alergias, etc.
 
 ### ¿Cómo puede ayudar la tecnología?
 
-Las personas que quieran contribuir a la lucha contra el cambio climático tendrán acceso a una plataforma fácil de usar con información nutricional y ambiental, lo que les ayudará a tomar mejores decisiones.
+Empoderando a los pacientes, dándole acceso en la práctica a su propia ficha médica. Mejorando la interoperabilidad entre distintas entidades traspasando datos a través de HL7 y Snomed
 
 ### La idea
 
-Una aplicación interoperable, que siga estándares de HL7 haciéndo que la información sea facilmente compartida por entidades de salud. El paciente es dueño y puede ver su ficha, comunicarse con el médico
-facilmente (con autorización de este), registrar signos, registrar síntomas, etc.
+Una aplicación interoperable, de fácil uso y que aporte a tareas como el registro y la comunicación médico/paciente. Este último es dueño de su ficha.
 
 
 ## Imágenes de la aplicación
@@ -52,4 +52,5 @@ facilmente (con autorización de este), registrar signos, registrar síntomas, e
 
 ## Agradecimientos
 
-* OpenFoodFacts: Base de datos de productos alimenticios hecha por todos, para todos. [Sitio web de Open Food Facts] (https://world.openfoodfacts.org) 
+* Diego Brito (Mentor NTTDATA)
+* Claudia Poblete (Mentora NTTDATA)
