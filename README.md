@@ -10,7 +10,7 @@ que demora el profesional en atender al paciente, particularmente con el uso int
 3) Atenciones ineficientes, los sistemas muchas veces no permiten ver las fichas médicas rapidamente, pérdida de tiempo útil en la atención
 4) Mala comunicación médico/paciente, se pierden los síntomas entre atenciones. Muchas veces se comunican por medios informales como Whatsapp donde se pierde la información
 y se presta para problemas
-5) Los pacientes muchas veces no recuerdan bien los nombres de sus medicamente, enfermedades, alergias, etc.
+5) Los pacientes muchas veces no recuerdan bien los nombres de sus medicamentos, enfermedades, alergias, etc.
 
 ### ¿Cómo puede ayudar la tecnología?
 
