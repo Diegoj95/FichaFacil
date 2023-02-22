@@ -1,7 +1,6 @@
 ## Breve descripción
 
-Esta aplicación la desarrollamos para la Hackathon de NTTDATA en Chile. Apuntamos a los 2 desafíos de mejorar registro/comunicación con el paciente y mejorar el tiempo
-que demora el profesional en atender al paciente, particularmente con el uso inteligente e interoperativo de las fichas médicas.
+Esta aplicación la desarrollamos para la Hackathon de NTTDATA en Chile. Apuntamos a los 2 desafíos de mejorar registro/comunicación con el paciente y aminorar los tiempos de atención, particularmente con el uso inteligente e interoperativo de las fichas médicas.
 
 ### ¿Cuál es el problema?
 
