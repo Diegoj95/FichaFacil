@@ -1,26 +1,25 @@
-## Breve descripción
+## Brief description
 
-Esta aplicación la desarrollamos para la Hackathon de NTTDATA en Chile. Apuntamos a los 2 desafíos de mejorar registro/comunicación con el paciente y aminorar los tiempos de atención, particularmente con el uso inteligente e interoperativo de las fichas médicas.
+We developed this application for the NTTDATA Hackathon in Chile. We aim to address the two challenges of improving patient registration/communication and reducing waiting times, particularly through the intelligent and interoperable use of medical records.
 
-### ¿Cuál es el problema?
+### What is the problem?
 
-1) Los pacientes legalmente son dueños de su ficha médica, pero en la práctica no, los pacientes no cuentan con su ficha a mano
-2) Baja continuidad en los tratamientos
-3) Atenciones ineficientes, los sistemas muchas veces no permiten ver las fichas médicas rapidamente, pérdida de tiempo útil en la atención
-4) Mala comunicación médico/paciente, se pierden los síntomas entre atenciones. Muchas veces se comunican por medios informales como Whatsapp donde se pierde la información
-y se presta para problemas
-5) Los pacientes muchas veces no recuerdan bien los nombres de sus medicamentos, enfermedades, alergias, etc.
+1) Legally, patients own their medical records, but in practice, they don't have their records readily available.
+2) Lack of treatment continuity.
+3) Inefficient care, as systems often don't allow quick access to medical records, resulting in wasted time during consultations.
+4) Poor communication between doctors and patients, with symptoms getting lost between visits. Often, informal means like WhatsApp are used for communication, leading to information loss and potential issues.
+5) Patients often struggle to remember the names of their medications, diseases, allergies, etc.
 
-### ¿Cómo puede ayudar la tecnología?
+### How can technology help?
 
-Empoderando a los pacientes, dándole acceso en la práctica a su propia ficha médica. Mejorando la interoperabilidad entre distintas entidades traspasando datos a través de HL7 y Snomed
+By empowering patients and giving them practical access to their own medical records. Improving interoperability between different entities by exchanging data through HL7 and Snomed.
 
-### La idea
+### The idea
 
-Una aplicación interoperable, de fácil uso y que aporte a tareas como el registro y la comunicación médico/paciente. Este último es dueño de su ficha.
+An interoperable application that is user-friendly and contributes to tasks such as patient registration and doctor-patient communication. The patient owns their medical record.
 
 
-## Imágenes de la aplicación
+## Application Images
 ![a](https://i.imgur.com/spXOcQb.png)
 ![b](https://i.imgur.com/enZhKqk.png)
 ![c](https://i.imgur.com/JR1AKhH.jpg)
@@ -34,13 +33,13 @@ Una aplicación interoperable, de fácil uso y que aporte a tareas como el regis
 ![k](https://i.imgur.com/IUkbNwc.jpg)
 
 
-## Construido con
+## Built With
 
 - Firebase
 - Kotlin
 
 
-## Autores
+## Authors
 
 * Felipe Jiménez (Desarrollador de software) - felipe.zxkq@gmail.com 
 * Sebastián Hernández (Médico general)
@@ -49,7 +48,7 @@ Una aplicación interoperable, de fácil uso y que aporte a tareas como el regis
 
 
 
-## Agradecimientos
+## Acknowledgments
 
 * Diego Brito (Mentor NTTDATA)
 * Claudia Poblete (Mentora NTTDATA)
